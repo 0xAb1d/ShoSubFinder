@@ -40,6 +40,7 @@ shodan_api_key: "YOUR_SHODAN_API_KEY_HERE"
 ```
 
 ## Usage
+![image3](/images/image3.png)
 ### Options
 
 - `-d`, `--domain`: Define the domain/hostname you want to search.
