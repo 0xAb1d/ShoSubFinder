@@ -63,6 +63,10 @@ python shosubfinder.py -org "Example Org" -o results.txt
 python shosubfinder.py -d example.com -asn "AS1234" -org "Example Org" -o results.txt
 ```
 
+## Future Enhancements
+🚀 Auto rotate Shodan APIs to bypass limit
+
+
 ## Disclaimer
 ShoSubFinder is developed for educational and professional purposes. Please use ShoSubFinder responsibly. You are responsible for your actions. Misuse of this tool can lead to potential legal consequences. The developer assumes no liability and is not responsible for any misuse or damage caused by this program.
 
